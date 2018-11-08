@@ -223,5 +223,61 @@
     }
     .page4B
     {
-        
+        background-color: #888888;
+        margin: 20px 30px;
+        height: 420px;
+        width: 780px;
     }
+    /* diseño pagina 5 */
+    .page5
+    {
+        background-color: red;
+        margin: 70px 60px;
+        height: 1480px;
+        width: 900px;
+        padding-top: 10px;
+    }
+    .page5 article
+    {
+        background-color: yellow;
+        margin: 20px 60px 40px 40px;
+        height: 1200px;
+        width: 800px;
+        padding-top: 10px;
+    }
+    .page5 div
+    {
+        background-color: #00006B;
+        margin: 40px 100px 60px 100px;
+        height: 200px;
+        width: 700px;
+    }
+    .page5 aside
+    {
+        background-color: blueviolet;
+        margin: 20px 30px 30px 30px;
+        height: 300px;
+        width: 760px;
+    }
+    .page5 nav
+    {
+        background-color: goldenrod;
+        margin: 30px 20px 15px 40px;
+        height: 300px;
+        width: 740px;
+    }
+    .page5 main
+    {
+        background-color: fuchsia;
+        margin: 15px 40px 15px 20px;
+        height: 300px;
+        width: 760px;
+    }
+    .page5 footer
+    {
+        background-color: #007423;
+        margin: 15px 45px 20px 15px;
+        height: 200px;
+        width: 760px;
+    }
+    
